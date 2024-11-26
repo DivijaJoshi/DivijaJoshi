@@ -41,7 +41,7 @@ I'm passionate about leveraging data and AI to solve complex problems and drive 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/divija-joshi/" target="blank" style="text-decoration:none;">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="filter: invert(1);" />
+    <img align="center" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="filter: invert(1);" />
     <span style="margin-left: 10px; font-size: 16px; color: #ffffff;">LinkedIn</span>
   </a>
   <br />
