@@ -117,6 +117,4 @@ I'm passionate about leveraging data and AI to solve complex problems and drive 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divijajoshi&show_icons=true&locale=en&layout=compact" alt="divijajoshi" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divijajoshi&show_icons=true&locale=en" alt="divijajoshi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divijajoshi&" alt="divijajoshi" /></p>
