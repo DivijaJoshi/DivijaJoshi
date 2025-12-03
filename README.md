@@ -2,7 +2,7 @@
 <h3 align="center">Node.js & Java Backend Developerr | Data & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Backend+Engineering+with+Spring+Boot;Building+Scalable+APIs;Clean+Architecture+Advocate;AI/ML+Integration+in+Backend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Backend+Development+with+Node.js;Building+RESTful+APIs;React+Frontend+Development;GenAI+Integration+Specialist" alt="Typing SVG" />
 </p>
 
 <p align="center">
