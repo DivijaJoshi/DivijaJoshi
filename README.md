@@ -13,14 +13,16 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me
 
-I'm a backend-focused Java Engineer passionate about building reliable, maintainable, and scalable systems. My core expertise lies in **Spring Boot** and **PostgreSQL**, backed by a strong understanding of data structures, system design principles, and RESTful architectures. I'm particularly interested in the intersection of backend development and AI/ML, constantly exploring ways to integrate intelligent features into workflows and enhance system capabilities.
+I'm a backend-focused Node.js developer passionate about building reliable, maintainable, and scalable systems. My core expertise lies in **Node.js** and **MongoDB**, with growing proficiency in **React** for full-stack development, backed by a strong understanding of **Spring Boot** from my Java background, system design principles, and RESTful architectures. I'm particularly interested in the intersection of backend development and Generative AI, constantly exploring ways to integrate intelligent features into workflows and enhance enhance user experiences with cutting-edge AI technologies.
+
 
 ---
 
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Currently Working On
 
-* 🚀 Designing and implementing secure, high-performance Java APIs using Spring Boot.
-* 🧠 Integrating Machine Learning components and models into backend services.
+* 🚀 Building high-performance Node.js APIs with Express.js and MongoDB integration.
+* ⚛️ Developing dynamic React applications with modern hooks and state management.
+* 🤖 Integrating GenAI models and LLMs into web applications for intelligent features.
 * 🐳 Developing and deploying Dockerized microservices within CI/CD pipelines.
 * 📈 Optimizing database interactions and ensuring application scalability.
 
@@ -36,12 +38,17 @@ I'm a backend-focused Java Engineer passionate about building reliable, maintain
 
 ### <img src="https://media.giphy.com/media/IootlWkzsMhVjYpZc1/giphy.gif" width="30"> Tech Stack
 
-**Languages & Frameworks:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+
+**Languages & Frameworks:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Databases & Persistence:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Databases & Persistence:** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JPA](https://img.shields.io/badge/-JPA%2FHibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
